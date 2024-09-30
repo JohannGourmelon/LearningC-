@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TPC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+267035c6c40fa1356c321c628cccb2d2391ba91b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TPC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TPC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

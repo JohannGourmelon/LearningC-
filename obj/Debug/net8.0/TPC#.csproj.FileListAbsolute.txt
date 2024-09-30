@@ -12,3 +12,4 @@ C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\refint\TPC#.dll
 C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.pdb
 C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.genruntimeconfig.cache
 C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\ref\TPC#.dll
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.sourcelink.json

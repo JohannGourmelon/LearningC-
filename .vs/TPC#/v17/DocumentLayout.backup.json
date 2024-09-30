@@ -5,6 +5,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\magazines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:magazines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\studybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:studybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\journals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:journals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\memberrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:memberrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|c:\\users\\johan\\source\\repos\\tpc#\\tpc#\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDDCD2-1196-4DE1-8726-5B35D1A9DC0C}|TPC#.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +54,129 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Faculty.cs",
+              "RelativeDocumentMoniker": "Faculty.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Faculty.cs",
+              "RelativeToolTip": "Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:28:45.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:26:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Magazines.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Magazines.cs",
+              "RelativeDocumentMoniker": "Magazines.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Magazines.cs",
+              "RelativeToolTip": "Magazines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:25:18.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudyBooks.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\StudyBooks.cs",
+              "RelativeDocumentMoniker": "StudyBooks.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\StudyBooks.cs",
+              "RelativeToolTip": "StudyBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:22:51.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Journals.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Journals.cs",
+              "RelativeDocumentMoniker": "Journals.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Journals.cs",
+              "RelativeToolTip": "Journals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:13:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Bill.cs",
+              "RelativeDocumentMoniker": "Bill.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Bill.cs",
+              "RelativeToolTip": "Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:11:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberRecord.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\MemberRecord.cs",
+              "RelativeDocumentMoniker": "MemberRecord.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\MemberRecord.cs",
+              "RelativeToolTip": "MemberRecord.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:10:09.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:06:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:52:38.659Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +185,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T08:34:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\TPC#\\TPC#\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:08:53.448Z",
               "EditorCaption": ""
             }
           ]
