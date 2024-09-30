@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\TPC#\TPC#\bin\Debug\net8.0\TPC#.exe
+C:\Users\johan\source\repos\TPC#\TPC#\bin\Debug\net8.0\TPC#.deps.json
+C:\Users\johan\source\repos\TPC#\TPC#\bin\Debug\net8.0\TPC#.runtimeconfig.json
+C:\Users\johan\source\repos\TPC#\TPC#\bin\Debug\net8.0\TPC#.dll
+C:\Users\johan\source\repos\TPC#\TPC#\bin\Debug\net8.0\TPC#.pdb
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.AssemblyInfo.cs
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.dll
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\refint\TPC#.dll
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.pdb
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\TPC#.genruntimeconfig.cache
+C:\Users\johan\source\repos\TPC#\TPC#\obj\Debug\net8.0\ref\TPC#.dll
